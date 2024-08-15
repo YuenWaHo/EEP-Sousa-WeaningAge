@@ -1,5 +1,3 @@
-# EEP-Sousa-WeaningAge
- 
 # Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins
 
 by
