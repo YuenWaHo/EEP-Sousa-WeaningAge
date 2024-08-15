@@ -2,13 +2,6 @@
 
 ## Authors and Affiliations
 **Authors:** Yuen-Wa Ho, Leszek Karczmarski\*, Wenzhi Lin, Mandy C.Y. Lo, Yuping Wu, David M. Baker\*  
-### Affiliations
-¹ Division of Cetacean Ecology, Cetacea Research Institute, Lantau, Hong Kong  
-² School of Biological Sciences and Swire Institute of Marine Science, University of Hong Kong, Pokfulam, Hong Kong  
-³ School of Marine Sciences, Zhuhai Key Laboratory of Marine Bioresources and Environment, Sun Yat-sen University, Guangzhou, China  
-⁴ Marine Mammal and Marine Bioacoustics Laboratory, Institute of Deep-sea Science and Engineering, Chinese Academy of Sciences, Sanya, Hainan, China  
-⁵ Marine Life Stranding Response Team, Ocean Park Conservation Foundation Hong Kong, Aberdeen, Hong Kong
-
 
 This paper has been submitted for publication in *Ecological and Evolutionary Physiology*.
 
@@ -28,7 +21,7 @@ The source code, implemented in Jupyter notebooks, generates all results and fig
 - Visualization of results
 
 ## Data Availability
-The data supporting the findings of this study are withheld for ongoing analysis towards future publications. We aim to make the data publicly accessible upon the completion of the study. For interim data requests or metadata inquiries, please contact [Primary Researcher's Email].
+The data supporting the findings of this study are withheld for ongoing analysis towards future publications. We aim to make the data publicly accessible upon the completion of the study. For interim data requests or metadata inquiries, please contact Yuen-Wa Ho [hoyuenwa@cetacea-institute.org].
 
 ## Getting the code
 A copy of the repository is also archived at Zenodo: *insert DOI here*
