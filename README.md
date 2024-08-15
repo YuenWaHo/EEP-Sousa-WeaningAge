@@ -1,31 +1,8 @@
 # Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins
 
 ## Authors and Affiliations
-- **Yuen-Wa Ho**¹,²  
-  - **ORCID:** [0000-0003-1523-112X](https://orcid.org/0000-0003-1523-112X)
-  - **Email:** hoyuenwa@cetacea-institute.org
-
-- **Leszek Karczmarski**¹,²\*  
-  - **ORCID:** [0000-0001-9712-1172](https://orcid.org/0000-0001-9712-1172)
-  - **Email:** leszek@cetacea-institute.org
-
-- **Wenzhi Lin**¹,³,⁴  
-  - **ORCID:** [0000-0002-0477-0753](https://orcid.org/0000-0002-0477-0753)
-  - **Email:** linwz@idsse.ac.cn
-
-- **Mandy C.Y. Lo**⁵  
-  - **Email:** mandylochiyan@gmail.com
-
-- **Yuping Wu**³  
-  - **ORCID:** [0000-0002-5603-3042](https://orcid.org/0000-0002-5603-3042)
-  - **Email:** exwyp@mail.sysu.edu.cn
-
-- **David M. Baker**²\*  
-  - **ORCID:** [0000-0002-0308-4954](https://orcid.org/0000-0002-0308-4954)
-  - **Email:** dmbaker@hku.hk
-
-## Affiliations
-
+**Authors:** Yuen-Wa Ho, Leszek Karczmarski\*, Wenzhi Lin, Mandy C.Y. Lo, Yuping Wu, David M. Baker\*  
+### Affiliations
 ¹ Division of Cetacean Ecology, Cetacea Research Institute, Lantau, Hong Kong  
 ² School of Biological Sciences and Swire Institute of Marine Science, University of Hong Kong, Pokfulam, Hong Kong  
 ³ School of Marine Sciences, Zhuhai Key Laboratory of Marine Bioresources and Environment, Sun Yat-sen University, Guangzhou, China  
@@ -58,6 +35,8 @@ A copy of the repository is also archived at Zenodo: *insert DOI here*
 
 ## Contact Information
 For any queries or further information, please reach out to:
+- **Yuen-Wa Ho**
+  - **Email:** hoyuenwa@cetacea-institute.org
 
-Yuen-Wa Ho at [email]
-Leszek Karczmarski at [email]
+- **Leszek Karczmarski**\*  
+  - **Email:** leszek@cetacea-institute.org
