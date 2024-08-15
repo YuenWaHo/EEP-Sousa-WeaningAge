@@ -1,6 +1,6 @@
 # Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins
 
-## Authors
+Authors
 Yuen-Wa Ho, Leszek Karczmarski\*, Wenzhi Lin, Mandy C.Y. Lo, Yuping Wu, David M. Baker\*  
 
 This paper has been submitted for publication in *Ecological and Evolutionary Physiology*.
