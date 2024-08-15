@@ -9,7 +9,7 @@ This repository contains Python code for the Bayesian change-point analysis of I
 
 This paper has been submitted for publication in *Ecological and Evolutionary Physiology*.
 
-![](Fig2.tiff)
+![](Fig2.png)
 
 *Mean δ<sup>15</sup>N isotope values (‰) across different ages (represented by growth layer groups) in 38 Indo-Pacific humpback dolphin carcasses stranded ashore in the Pearl River Delta region between 2007 and 2018. Vertical bars represent standard deviation (± ‰). All analyzed individuals had at least five growth layer groups identified in their teeth, of which 14 were males (M), 18 were females (F), and the sex of 6 individuals was undetermined (Un).*
 
