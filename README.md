@@ -1,7 +1,37 @@
 # Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins
 
-by
-Yuen-Wa Ho, Leszek Karczmarski*, Wenzhi Lin, Mandy C.Y. Lo, Yuping Wu, and David M. Baker*
+## Authors and Affiliations
+- **Yuen-Wa Ho**¹,²  
+  - **ORCID:** [0000-0003-1523-112X](https://orcid.org/0000-0003-1523-112X)
+  - **Email:** hoyuenwa@cetacea-institute.org
+
+- **Leszek Karczmarski**¹,²\*  
+  - **ORCID:** [0000-0001-9712-1172](https://orcid.org/0000-0001-9712-1172)
+  - **Email:** leszek@cetacea-institute.org
+
+- **Wenzhi Lin**¹,³,⁴  
+  - **ORCID:** [0000-0002-0477-0753](https://orcid.org/0000-0002-0477-0753)
+  - **Email:** linwz@idsse.ac.cn
+
+- **Mandy C.Y. Lo**⁵  
+  - **Email:** mandylochiyan@gmail.com
+
+- **Yuping Wu**³  
+  - **ORCID:** [0000-0002-5603-3042](https://orcid.org/0000-0002-5603-3042)
+  - **Email:** exwyp@mail.sysu.edu.cn
+
+- **David M. Baker**²\*  
+  - **ORCID:** [0000-0002-0308-4954](https://orcid.org/0000-0002-0308-4954)
+  - **Email:** dmbaker@hku.hk
+
+## Affiliations
+
+¹ Division of Cetacean Ecology, Cetacea Research Institute, Lantau, Hong Kong  
+² School of Biological Sciences and Swire Institute of Marine Science, University of Hong Kong, Pokfulam, Hong Kong  
+³ School of Marine Sciences, Zhuhai Key Laboratory of Marine Bioresources and Environment, Sun Yat-sen University, Guangzhou, China  
+⁴ Marine Mammal and Marine Bioacoustics Laboratory, Institute of Deep-sea Science and Engineering, Chinese Academy of Sciences, Sanya, Hainan, China  
+⁵ Marine Life Stranding Response Team, Ocean Park Conservation Foundation Hong Kong, Aberdeen, Hong Kong
+
 
 This paper has been submitted for publication in *Ecological and Evolutionary Physiology*.
 
@@ -15,9 +45,19 @@ Weaning represents a pivotal ontogenetic process for mammals, marking the transi
 
 ## Software implementation
 All source code used to generate the results and figures in the paper are in the `EEP-sousa-weaning.ipynb`.
-The calculations and figure generation are all run inside [Jupyter notebooks](http://jupyter.org/).
-We have decided not to include the data in the current manuscript as it is being used for an ongoing study which will result in subsequent publications.
-See the `README.md` files in each directory for a full description.
+The source code, implemented in Jupyter notebooks, generates all results and figures presented in the paper. It is structured as follows:
+- Data import and preprocessing
+- Bayesian hierarchical modeling
+- Visualization of results
+
+## Data Availability
+The data supporting the findings of this study are withheld for ongoing analysis towards future publications. We aim to make the data publicly accessible upon the completion of the study. For interim data requests or metadata inquiries, please contact [Primary Researcher's Email].
 
 ## Getting the code
 A copy of the repository is also archived at Zenodo: *insert DOI here*
+
+## Contact Information
+For any queries or further information, please reach out to:
+
+Yuen-Wa Ho at [email]
+Leszek Karczmarski at [email]
