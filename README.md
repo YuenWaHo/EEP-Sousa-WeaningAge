@@ -6,7 +6,7 @@ Yuen-Wa Ho, Leszek Karczmarski\*, Wenzhi Lin, Mandy C.Y. Lo, Yuping Wu, David M.
 
 This paper has been submitted for publication in *Ecological and Evolutionary Physiology*.
 
-![](Figure.png=250x)
+![](Figure.png =250x)
 
 *Mean δ<sup>15</sup>N isotope values (‰) across different ages (represented by growth layer groups) in 38 Indo-Pacific humpback dolphin carcasses stranded ashore in the Pearl River Delta region between 2007 and 2018. Vertical bars represent standard deviation (± ‰). All analyzed individuals had at least five growth layer groups identified in their teeth, of which 14 were males (M), 18 were females (F), and the sex of 6 individuals was undetermined (Un).*
 
