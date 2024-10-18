@@ -1,7 +1,6 @@
 # Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins
 
-Yuen-Wa Ho, Leszek Karczmarski\*, Wenzhi Lin, Mandy C.Y. Lo, Yuping Wu, David M. Baker\*  
-This paper has been submitted for publication in *Ecological and Evolutionary Physiology*.
+Yuen-Wa Ho, Leszek Karczmarski\*, Wenzhi Lin, Mandy C.Y. Lo, Yuping Wu, David M. Baker\* (2024) 
 
 ![](Figure.png)
 
@@ -14,7 +13,7 @@ Weaning represents a pivotal ontogenetic process for mammals, marking the transi
 All source code used to generate the results and figures in the paper are in the `EEP-sousa-weaning.ipynb`.
 
 ## Data Availability
-The data supporting the findings of this study are withheld for ongoing analysis towards future publications. We aim to make the data publicly accessible upon the completion of the study. For interim data requests or metadata inquiries, please contact Yuen-Wa Ho [hoyuenwa@cetacea-institute.org].
+The data supporting the findings of this study are withheld for ongoing analysis towards future publications. We aim to make the data publicly accessible upon the completion of the study. For interim data requests or metadata inquiries, please contact [Yuen-Wa Ho](mailto;hoyuenwa@cetacea-institute.org).
 
 ## Authors
 For any queries or further information, please reach out to:
@@ -24,3 +23,6 @@ For any queries or further information, please reach out to:
 - Mandy C.Y. Lo
 - Yuping Wu
 - David M. Baker
+
+## Citation
+Yuen-Wa Ho, Leszek Karczmarski\*, Wenzhi Lin, Mandy C.Y. Lo, Yuping Wu, David M. Baker\* (2024) Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. *Ecological and Evolutionary Physiology*
