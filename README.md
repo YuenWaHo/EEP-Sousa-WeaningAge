@@ -29,9 +29,4 @@ For any queries or further information, please reach out to:
 
 ## Citation
 
-<<<<<<< HEAD
 Yuen-Wa Ho, Leszek Karczmarski\*, Wenzhi Lin, Mandy C.Y. Lo, Yuping Wu, David M. Baker\* (Accepted) Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_
-=======
-Yuen-Wa Ho, Leszek Karczmarski\*, Wenzhi Lin, Mandy C.Y. Lo, Yuping Wu, David M. Baker\* (2024) Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_
-
-> > > > > > > 8e0a5b7bb7aa0732518e55150597d62fde50f326
