@@ -1,6 +1,6 @@
 # Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins
 
-[<img src="Figure.png" width="600"/>](Figure.png)
+[<img src="Figure/Figure.png" width="600"/>](Figure.png)
 
 _Mean δ<sup>15</sup>N isotope values (‰) across different ages (represented by growth layer groups) in 38 Indo-Pacific humpback dolphin carcasses stranded ashore in the Pearl River Delta region between 2007 and 2018. Vertical bars represent standard deviation (± ‰). All analyzed individuals had at least five growth layer groups identified in their teeth, of which 14 were males (M), 18 were females (F), and the sex of 6 individuals was undetermined (Un)._
 
@@ -14,7 +14,7 @@ All source code used to generate the results and figures in this paper is availa
 
 ## Data Availability
 
-The data supporting the findings of this study are currently withheld for ongoing analysis towards future publications. We plan to make the data publicly accessible upon completion of the study. For interim data requests or metadata inquiries, please contact [Yuen-Wa Ho](mailto;hoyuenwa@cetacea-institute.org).
+The data supporting the findings of this study are currently retained for ongoing analysis in preparation for future publications. We plan to make the data publicly accessible upon completion of the study. For interim data requests or metadata inquiries, please contact [Yuen-Wa Ho](mailto;hoyuenwa@cetacea-institute.org).
 
 ## Authors
 
@@ -29,4 +29,4 @@ For any queries or further information, please reach out to:
 
 ## Citation
 
-Yuen-Wa Ho, Leszek Karczmarski\*, Wenzhi Lin, Mandy C.Y. Lo, Yuping Wu, David M. Baker\* (Major Revision) Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_
+Yuen-Wa Ho, Leszek Karczmarski\*, Wenzhi Lin, Mandy C.Y. Lo, Yuping Wu, David M. Baker\* (Accepted) Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_
