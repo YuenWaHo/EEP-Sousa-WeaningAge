@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins"
+type: "software"
+authors:
+  - family-names: "Ho"
+    given-names: "Yuen Wa"
+    orcid: "https://orcid.org/0000-0003-1523-112X"
+    email: "hoyuenwa@cetacea-institute.org"
+    affiliation: "1, 2"
+  - family-names: "Karczmarski"
+    given-names: "Leszek"
+    orcid: "https://orcid.org/0000-0001-9712-1172"
+    email: "leszek@cetacea-institute.org"
+    affiliation: "1, 2"
+  - family-names: "Lin"
+    given-names: "Wenzhi"
+    orcid: "https://orcid.org/0000-0002-0477-0753"
+    affiliation: "2, 3, 4"
+  - family-names: "Lo"
+    given-names: "Mandy C.Y."
+    affiliation: "5"
+  - family-names: "Wu"
+    given-names: "Yuping"
+    affiliation: "2"
+  - family-names: "Baker"
+    given-names: "David M."
+    affiliation: "2"
+affiliations:
+  - name: "Division of Cetacean Ecology, Cetacea Research Institute, Lantau, Hong Kong"
+    index: 1
+  - name: "School of Biological Sciences and Swire Institute of Marine Science, University of Hong Kong, Pokfulam, Hong Kong"
+    index: 2
+  - name: "School of Marine Sciences, Zhuhai Key Laboratory of Marine Bioresources and Environment, Sun Yat-sen University, Guangzhou, China"
+    index: 3
+  - name: "Marine Mammal and Marine Bioacoustics Laboratory, Institute of Deep-Sea Science and Engineering, Chinese Academy of Sciences, Sanya, Hainan, China"
+    index: 4
+  - name: "Marine Life Stranding Response Team, Ocean Park Conservation Foundation Hong Kong, Aberdeen, Hong Kong"
+    index: 5
+date-released: 2024-05-12
