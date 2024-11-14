@@ -4,7 +4,7 @@ title: "Modeling life history parameters in marine mammals: Bayesian hierarchica
 type: "software"
 authors:
   - family-names: "Ho"
-    given-names: "Yuen-Wa"
+    given-names: "Yuen Wa"
     orcid: "https://orcid.org/0000-0003-1523-112X"
     email: "hoyuenwa@cetacea-institute.org"
     affiliation: "1, 2"
@@ -18,7 +18,7 @@ authors:
     orcid: "https://orcid.org/0000-0002-0477-0753"
     affiliation: "2, 3, 4"
   - family-names: "Lo"
-    given-names: "M.C.Y."
+    given-names: "Mandy Chi Yan"
     affiliation: "5"
   - family-names: "Wu"
     given-names: "Yuping"
