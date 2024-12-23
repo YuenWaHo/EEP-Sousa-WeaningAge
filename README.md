@@ -1,5 +1,7 @@
 # Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins
 
+[![DOI](https://zenodo.org/badge/842756735.svg)](https://doi.org/10.5281/zenodo.14544487)
+
 [<img src="Figure/Figure.png" width="600"/>](Figure.png)
 
 _Mean δ<sup>15</sup>N isotope values (‰) across different ages (represented by growth layer groups) in 38 Indo-Pacific humpback dolphin carcasses stranded ashore in the Pearl River Delta region between 2007 and 2018. Vertical bars represent standard deviation (± ‰). All analyzed individuals had at least five growth layer groups identified in their teeth, of which 14 were males (M), 18 were females (F), and the sex of 6 individuals was undetermined (Un)._
